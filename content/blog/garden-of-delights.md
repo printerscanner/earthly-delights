@@ -1,5 +1,5 @@
 ---
-title: Garden 2 of Delights
+title: Garden of Delights
 description: 
 date: 2023-09-30
 tags:

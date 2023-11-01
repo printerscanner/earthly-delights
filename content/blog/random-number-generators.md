@@ -1,5 +1,10 @@
-# How random is Math.random()
-
+---
+title: How random is Math.random()
+description: 
+date: 2023-09-30
+tags:
+  - Engineering
+---
 Computers are linear. They are big, giant counters. But an essential part of computing is randomness. We use randomness in everything, from art to gambling, statistical sampling, computer simulation, to cryptography. printer_scanner utilizes random number generators for much of its work, claiming to be the most random website on the internet. This claim is disputed by most. But, how does a machine built to be linear create randomness? There are a few ways. We have to create algorithms that mimic randomness. These are called Pseudorandom Number Generators, or PRNG’s. These algorithms produce outputs that resemble uniformly distributed random values but are deterministic.
 
 Early approaches to a PRNG suggested by John von Neumann, middle square method: take a number, square it, remove the middle digits of the resulting number as a "random number," and use it as a seed for the next iteration. The problem is that all sequences eventually repeat themselves, some very quickly, such as "0000."
