@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "31c92606b18f075d",
+            "id": "50c0b6a8e76e4d09",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -192,12 +192,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31c92606b18f075d",
+  "active": "50c0b6a8e76e4d09",
   "lastOpenFiles": [
-    "_template/post-template.md",
+    "_template/_post-template.md",
     "_template",
-    "Garden.md",
     "Untitled.md",
+    "_template/post-template.md",
+    "Garden.md",
     "template/post-template.md",
     "template",
     "Untitled 1.md",
