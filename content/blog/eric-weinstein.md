@@ -1,5 +1,5 @@
 ---
-title: Garden of Delights
+title: Everything I know about UFO hunter Eric Weinstein
 description: 
 date: 2023-09-30
 tags:

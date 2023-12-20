@@ -1,5 +1,5 @@
 module.exports = {
-	title: "Earthly Delights",
+	title: "The Garden of Earthly Delights",
 	url: "https://example.com/",
 	language: "en",
 	description: "I am writing about my experiences as a naval navel-gazer.",

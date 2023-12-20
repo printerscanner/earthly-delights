@@ -10,10 +10,10 @@
 }
 
 :root {
-	--text-color: olive;
-	--text-color-dark: rgb(93, 93, 0);
-	--background-color: gainsboro;
-	--background-color-dark: rgb(187, 187, 158);
+	--text-color: rgb(224, 208, 208);
+	--text-color-dark: #385C2C;
+	--background-color: #3b4d3e;
+	--background-color-dark: rgb(213, 213, 213);
 
 }
 
@@ -27,13 +27,14 @@ body {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	overflow-x: hidden;
-	background-color: var(--background-color);
+	background: var(--background-color);
 	border-color: var(--background-color);
 	font-family: 'Neue Montreal', sans-serif;
 	font-display: swap;
-	color: olive;
-	margin: 10px;
+	color: var(--text-color);
 	line-height: 1.5;
+	margin: 0;
+	padding: 0;
 }
 
 
@@ -45,6 +46,11 @@ body {
 
 html {
 	overflow-y: scroll;
+}
+
+section {
+	padding: 50px 0;
+	display: flex;
 }
 
 
@@ -82,16 +88,18 @@ a[href]:active {
 }
 
 main {
-	padding: 1rem;
-}
-main :first-child {
-	margin-top: 0;
+	width: 700px;
+	margin: 0 auto;
 }
 
+
 header {
-	background-color: var(--background-color-dark);
-	color: var(--text-color-dark);
-	border-radius: 100px;
+	color: rgb(39, 24, 24);
+	border-radius: 10px;
+	padding: 1em;
+	background-color: #4f0;
+	width: fit-content;
+	border-radius: 100%;
 }
 
 header:after {
@@ -137,18 +145,11 @@ code {
 	word-break: break-all;
 }
 
-/* Header */
-header {
-	display: flex;
-	gap: 1em .5em;
-	flex-wrap: wrap;
-	align-items: center;
-	padding: 1em;
-}
+
 .home-link {
 	font-size: 1em; /* 16px /16 */
-	font-weight: 700;
 	margin-right: 2em;
+	font-weight: 400;
 }
 .home-link:link:not(:hover) {
 	text-decoration: none;
@@ -160,6 +161,9 @@ header {
 	padding: 0;
 	margin: 0;
 	list-style: none;
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
 }
 .nav-item {
 	display: inline-block;
@@ -172,27 +176,30 @@ header {
 	text-decoration: underline;
 }
 
+.blog-container {
+	max-width: 700px;
+	margin: auto;
+}
+
 /* Posts list */
 .postlist {
 	list-style: none;
 	padding: 0;
-	padding-left: 1.5rem;
 }
 .postlist-item {
-	display: flex;
-	flex-wrap: wrap;
-	align-items: baseline;
-	counter-increment: start-from -1;
-	margin-bottom: 1em;
+	text-decoration: none;
+  background: linear-gradient(137.42deg, rgba(255,255,255,0.075) 21.58%, rgba(255,255,255,0.045) 106.63%),rgba(255,255,255,0);
+  border-radius: 50%;
+  margin-bottom: 27px;
+  padding: 18px;
+  -webkit-transition: all 0.35s ease;
+  -moz-transition: all 0.35s ease;
+  -ms-transition: all 0.35s ease;
+  -o-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+	text-align: center;
 }
-.postlist-item:before {
-	display: inline-block;
-	pointer-events: none;
-	content: "" counter(start-from, decimal-leading-zero) ". ";
-	line-height: 100%;
-	text-align: right;
-	margin-left: -1.5rem;
-}
+
 .postlist-date,
 .postlist-item:before {
 	font-size: 0.8125em; /* 13px /16 */
@@ -205,8 +212,6 @@ header {
 	font-size: 1.1875em; /* 19px /16 */
 	font-weight: 700;
 	flex-basis: calc(100% - 1.5rem);
-	padding-left: .25em;
-	padding-right: .5em;
 	text-underline-position: from-font;
 	text-underline-offset: 0;
 	text-decoration-thickness: 1px;

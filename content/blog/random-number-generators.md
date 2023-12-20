@@ -1,5 +1,5 @@
 ---
-title: How random is Math.random()
+title: Is Math.random() actually random?
 description: 
 date: 2023-09-30
 tags:

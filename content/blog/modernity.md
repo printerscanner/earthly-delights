@@ -1,5 +1,5 @@
 ---
-title: Garden of Delights
+title: Modernity
 description: 
 date: 2023-09-30
 tags:
