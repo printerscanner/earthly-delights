@@ -89,6 +89,11 @@ header a {
 li {
 	list-style: none;
 }
+
+img {
+	max-width: 100%;
+}
+
 @media only screen and (max-width: 1000px) {
 	body {
 		padding: 5px;

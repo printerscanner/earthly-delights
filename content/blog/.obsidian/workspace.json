@@ -135,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -169,14 +171,17 @@
   },
   "active": "4367f9d500257cec",
   "lastOpenFiles": [
-    "porcelain.md",
-    "modernity.md",
-    "garden-of-delights.md",
-    "eric-weinstein.md",
-    "web-dev-trends.md",
-    "random-number-generators.md",
-    "sustainable-websites.md",
     "_template/_post-template.md",
+    "garden-of-delights.md",
+    "modernity.md",
+    "porcelain.md",
+    "random-number-generators.md",
+    "reading-the-classics.md",
+    "sustainable-websites.md",
+    "eric-weinstein.md",
+    "2023-09-30.md",
+    "Untitled.md",
+    "web-dev-trends.md",
     "Green Websites.md",
     "Untitled",
     "Garden.md",
