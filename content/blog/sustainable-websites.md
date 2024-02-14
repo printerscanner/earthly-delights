@@ -22,7 +22,7 @@ A few more points on why this is only a good idea. Other sustainability practice
 I'll leave you with some recommendations if you're a developer wanting to make your site more sustainable: 
 
 
-**Reduce image asset size** - This is the most important thing you can do to make your site smaller, and what creates the most bulk on a website. Compress images before caching them, and set max-size restrictions on image uploads in your CMS. 
+**Reduce image asset size** - This is the most important thing you can do to make your site smaller, and what creates the most bulk on a website. Compress images before caching them, and set max-size restrictions on image uploads in your CMS. Ask yourself as well if you need hi-res images at all.
 
 **Do you even need analytics?** From my informal polling approximately 0% of people know how to use their analytics services or how to correctly interpret the data they collect. Are you just using that analytics tool because you feel like you should? You could also try switching to something a little less taxing, and a little less evil, like [Cabin Analytics](https://withcabin.com). 
 

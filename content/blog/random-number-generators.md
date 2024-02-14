@@ -1,7 +1,7 @@
 ---
 title: Is Math.random() actually random?
 description: 
-date: 2023-09-30
+date: 2024-01-01
 tags:
   - Engineering
 ---

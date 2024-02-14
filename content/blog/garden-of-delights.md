@@ -1,7 +1,7 @@
 ---
 title: What is the Garden of Earthly Delights?
 description: 
-date: 2023-12-21
+date: 2023-12-31
 tags:
 ---
 ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Garden_of_earthly_delights.jpg/1920px-The_Garden_of_earthly_delights.jpg)
@@ -15,3 +15,6 @@ Additionally, each post will not only be available via the world wide web, but I
 I will not be accepting solicitations for advice for this blog. I created an email address for it solicitations@earthly-delights.net, but I automatically route any mail received to it to the trash can. Additionally, the mail is printed, but then immediately shredded by my receptionist (who is also my cousin). 
 
 I invite you to take a look at the painting above for a really really long time, and if afterwords you feel like coming back and reading some of this blog, you are cordially invited to. 
+
+--- 
+This site was developed with [11ty](https://www.11ty.dev/) and the CMS was built a bit unusually with [Obsidian](https://obsidian.md/). It's working great so far! The source code is available on [Github](https://github.com/printerscanner/earthly-delights) if you'd like to replicate it. I'm always available to say hi at itsprinterscanner@gmail.com 
