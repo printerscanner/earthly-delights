@@ -22,7 +22,10 @@ body {
 	color: #ACEF95;
 	background-color: #19472F;
 	padding: 10px 50px;
+}
 
+p {
+	line-height: 1.5;
 }
 
 a {
@@ -86,12 +89,24 @@ header a {
 	background-color: #375b32;
 }
 
+.links-nextprev {
+	padding: 0;
+}
+
+ul {
+	padding: 0;
+}
+
 li {
 	list-style: none;
 }
 
 img {
 	max-width: 100%;
+}
+
+.post-metadata {
+	padding: 0;
 }
 
 @media only screen and (max-width: 1000px) {

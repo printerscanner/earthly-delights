@@ -1,7 +1,7 @@
 ---
 title: Does it make a difference if your website is sustainable?
 description: 
-date: 2023-12-20
+date: 2024-01-20
 tags:
   - Engineering
 ---
@@ -22,11 +22,17 @@ A few more points on why this is only a good idea. Other sustainability practice
 I'll leave you with some recommendations if you're a developer wanting to make your site more sustainable: 
 
 
-* **Reduce image asset size** - This is the most important thing you can do to make your site smaller, and what creates the most bulk on a website. Compress images before caching them, and set max-size restrictions on image uploads in your CMS. 
-* **Do you even need analytics?** From my informal polling approximately 0% of people know how to use their analytics services or how to correctly interpret the data they collect. Are you just using that analytics tool because you feel like you should? You could also try switching to something a little less taxing, and a little less evil, like [Cabin Analytics](https://withcabin.com). 
-* **Implement Caching** - APIs don't need to be called on page load. Come up with a minimum viable API call, and cache your data between calls. 
-* **Reduce load** to what is needed page by page. Make sure JavaScript is only loaded in component-by-component when needed. 
-* **Green Hosting** - this is the last item on the list for a reason. It is the least important. Why use green energy when you can use *no* energy. While this hosting is probably slightly better than doing nothing, you will always use gas to run electricity no matter what. 
-* **No JS** - Developers, all users on this planet hate flashy, unnecessary JavaScript. Join the movement and stop developing it. I am not just saying that because I suck at making JavaScript animations, it's also good for the environment. 
-* **No Website** - Do we even need a website for that? Save your developer some time, and let's all just go outside.
+**Reduce image asset size** - This is the most important thing you can do to make your site smaller, and what creates the most bulk on a website. Compress images before caching them, and set max-size restrictions on image uploads in your CMS. 
+
+**Do you even need analytics?** From my informal polling approximately 0% of people know how to use their analytics services or how to correctly interpret the data they collect. Are you just using that analytics tool because you feel like you should? You could also try switching to something a little less taxing, and a little less evil, like [Cabin Analytics](https://withcabin.com). 
+
+**Implement Caching** - APIs don't need to be called on page load. Come up with a minimum viable API call, and cache your data between calls. 
+
+**Reduce load** to what is needed page by page. Make sure JavaScript is only loaded in component-by-component when needed. 
+
+**Green Hosting** - this is the last item on the list for a reason. It is the least important. Why use green energy when you can use *no* energy. While this hosting is probably slightly better than doing nothing, you will always use gas to run electricity no matter what.  
+
+**No JS** - Developers, all users on this planet hate flashy, unnecessary JavaScript. Join the movement and stop developing it. I am not just saying that because I suck at making JavaScript animations, it's also good for the environment. 
+
+**No Website** - Do we even need a website for that? Save your developer some time, and let's all just go outside.
 

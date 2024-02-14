@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eric-weinstein.md",
+                "file": "garden-of-delights.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb97db45cae39111",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sustainable-websites.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eric-weinstein.md",
+                "file": "sustainable-websites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eric-weinstein.md",
+                "file": "sustainable-websites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eric-weinstein.md"
+                "file": "sustainable-websites.md"
               }
             }
           },
@@ -147,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "eric-weinstein.md"
+                "file": "sustainable-websites.md"
               }
             }
           }
@@ -169,19 +182,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c182e7bf1f3af137",
+  "active": "bb97db45cae39111",
   "lastOpenFiles": [
+    "soup-vs-salad.md",
+    "sustainable-websites.md",
     "garden-of-delights.md",
     "random-number-generators.md",
-    "sustainable-websites.md",
+    "print.jpeg",
     "eric-weinstein.md",
+    "2023-09-30.md",
+    "_template/_post-template.md",
+    "diy-bookbinding-guide.md",
+    "Perfect-binding-product.jpeg",
+    "84841c21d1c549e36e701ef4d4def12c.jpeg",
+    "CO_SingerSewing_1350x900-800x526.jpeg",
+    "1200px-Untitled_Artwork-12.jpeg",
+    "Soup vs. Salad.md",
     "reading-the-classics.md",
     "porcelain.md",
     "modernity.md",
     "ux-evils.md",
-    "_template/_post-template.md",
-    "2023-09-30.md",
-    "Untitled.md",
     "web-dev-trends.md",
     "Green Websites.md",
     "Untitled",
