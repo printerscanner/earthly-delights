@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5885611f3a1e70f8",
+        "id": "51cf2c22a7077882",
         "type": "tabs",
         "children": [
           {
-            "id": "4367f9d500257cec",
+            "id": "c182e7bf1f3af137",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,16 +169,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4367f9d500257cec",
+  "active": "c182e7bf1f3af137",
   "lastOpenFiles": [
-    "_template/_post-template.md",
     "garden-of-delights.md",
-    "modernity.md",
-    "porcelain.md",
     "random-number-generators.md",
-    "reading-the-classics.md",
     "sustainable-websites.md",
     "eric-weinstein.md",
+    "reading-the-classics.md",
+    "porcelain.md",
+    "modernity.md",
+    "ux-evils.md",
+    "_template/_post-template.md",
     "2023-09-30.md",
     "Untitled.md",
     "web-dev-trends.md",
