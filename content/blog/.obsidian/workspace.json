@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "garden-of-delights.md",
+                "file": "sustainable-websites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4281add8f39fff45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "taocp.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "garden-of-delights.md",
+                "file": "taocp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "garden-of-delights.md",
+                "file": "taocp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "garden-of-delights.md"
+                "file": "taocp.md"
               }
             }
           },
@@ -160,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "garden-of-delights.md"
+                "file": "taocp.md"
               }
             }
           }
@@ -182,17 +194,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb97db45cae39111",
+  "active": "4281add8f39fff45",
   "lastOpenFiles": [
-    "random-number-generators.md",
+    "_template/_post-template.md",
+    "taocp.md",
+    "taocp.md",
     "sustainable-websites.md",
+    "random-number-generators.md",
     "garden-of-delights.md",
     "2023-12-21.md",
     "soup-vs-salad.md",
     "print.jpeg",
     "eric-weinstein.md",
     "2023-09-30.md",
-    "_template/_post-template.md",
     "diy-bookbinding-guide.md",
     "Perfect-binding-product.jpeg",
     "84841c21d1c549e36e701ef4d4def12c.jpeg",
