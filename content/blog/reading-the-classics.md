@@ -27,4 +27,3 @@ It's not hyperbolic to say the project changed me in the most important way, whi
 Not all of it was really as boring as I pretend it was. Augustine, literally gifted me with a sense of religious faith that I had never ever considered in my life. *Middlemarch* (a snoozer) is my all time favorite book, George Eliot reaches out to me from the past and pats my poor nervous soul on the shoulder. I read it over and over, just opening to random pages. Adam Smith and Hume, I feel like I have a personal, intimate connection with. After finishing each of their biggest tombs, I visited their actual tombs in Edinburgh. 
 
 Books I hated: Plato seems like the most annoying dude who ever lived. No one talks about that. I bet he was absolutely insufferable to be around. I'm also sorry to say, T.S Eliot, I am sure you were a nice guy, but I feel like all of his contributions to the world are really annoying (except for Djuna Barnes Nightwood). 
-
