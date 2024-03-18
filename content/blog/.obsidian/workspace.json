@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c182e7bf1f3af137",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "garden-of-delights.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb97db45cae39111",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sustainable-websites.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4281add8f39fff45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "taocp.md",
+                "file": "rating-every-business-leith-walk.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "taocp.md",
+                "file": "rating-every-business-leith-walk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "taocp.md",
+                "file": "rating-every-business-leith-walk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "taocp.md"
+                "file": "rating-every-business-leith-walk.md"
               }
             }
           },
@@ -172,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "taocp.md"
+                "file": "rating-every-business-leith-walk.md"
               }
             }
           }
@@ -197,16 +172,18 @@
   "active": "4281add8f39fff45",
   "lastOpenFiles": [
     "_template/_post-template.md",
-    "taocp.md",
-    "taocp.md",
-    "sustainable-websites.md",
-    "random-number-generators.md",
-    "garden-of-delights.md",
-    "2023-12-21.md",
+    "rating-every-business-leith-walk.md",
     "soup-vs-salad.md",
+    "bridget-jones-pride-prejudice.md",
+    "2023-09-30.md",
+    "every-thing-ate.md",
+    "garden-of-delights.md",
+    "random-number-generators.md",
+    "sustainable-websites.md",
+    "taocp.md",
+    "2023-12-21.md",
     "print.jpeg",
     "eric-weinstein.md",
-    "2023-09-30.md",
     "diy-bookbinding-guide.md",
     "Perfect-binding-product.jpeg",
     "84841c21d1c549e36e701ef4d4def12c.jpeg",
@@ -228,8 +205,6 @@
     "Untitled 1.md",
     "Neuer Ordner",
     "Post Name.md",
-    "2018-09-30.md",
-    "blog.11tydata.js",
-    "Earthly Delights.md"
+    "blog.11tydata.js"
   ]
 }
