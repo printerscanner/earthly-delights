@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rating-every-business-leith-walk.md",
+                "file": "reading-the-classics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rating-every-business-leith-walk.md",
+                "file": "reading-the-classics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rating-every-business-leith-walk.md",
+                "file": "reading-the-classics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rating-every-business-leith-walk.md"
+                "file": "reading-the-classics.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "rating-every-business-leith-walk.md"
+                "file": "reading-the-classics.md"
               }
             }
           }
@@ -172,6 +172,7 @@
   "active": "4281add8f39fff45",
   "lastOpenFiles": [
     "_template/_post-template.md",
+    "reading-the-classics.md",
     "rating-every-business-leith-walk.md",
     "soup-vs-salad.md",
     "bridget-jones-pride-prejudice.md",
