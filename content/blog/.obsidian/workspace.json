@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading-the-classics.md",
+                "file": "the-absurdity-of-tim-ferriss.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reading-the-classics.md",
+                "file": "the-absurdity-of-tim-ferriss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reading-the-classics.md",
+                "file": "the-absurdity-of-tim-ferriss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reading-the-classics.md"
+                "file": "the-absurdity-of-tim-ferriss.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "reading-the-classics.md"
+                "file": "the-absurdity-of-tim-ferriss.md"
               }
             }
           }
@@ -169,11 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "920ea3975c950c90",
+  "active": "4281add8f39fff45",
   "lastOpenFiles": [
-    "garden-of-delights.md",
-    "reading-the-classics.md",
     "_template/_post-template.md",
+    "the-absurdity-of-tim-ferriss.md",
+    "reading-the-classics.md",
+    "garden-of-delights.md",
     "rating-every-business-leith-walk.md",
     "soup-vs-salad.md",
     "bridget-jones-pride-prejudice.md",
