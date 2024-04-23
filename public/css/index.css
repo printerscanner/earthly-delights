@@ -71,6 +71,9 @@ header a {
   padding: 10px;
 }
 
+.postlist-date {
+	text-align: right;
+}
 
 .postlist-item:first-child .postlist-link {
   border-top: 1px dashed; /* Add top border to the first item */
