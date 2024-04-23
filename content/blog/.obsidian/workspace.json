@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "every-thing-ate.md",
+                "file": "tech-brats-turning-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "every-thing-ate.md",
+                "file": "tech-brats-turning-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "every-thing-ate.md",
+                "file": "tech-brats-turning-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "every-thing-ate.md"
+                "file": "tech-brats-turning-30.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "every-thing-ate.md"
+                "file": "tech-brats-turning-30.md"
               }
             }
           }
@@ -171,14 +171,14 @@
   },
   "active": "b9f5515ae236a0d0",
   "lastOpenFiles": [
+    "the-absurdity-of-tim-ferriss.md",
+    "every-thing-ate.md",
     "taocp.md",
     "tech-brats-turning-30.md",
-    "the-absurdity-of-tim-ferriss.md",
     "sustainable-websites.md",
     "rating-every-business-leith-walk.md",
     "random-number-generators.md",
     "garden-of-delights.md",
-    "every-thing-ate.md",
     "reading-the-classics.md",
     "_template/_post_template.md",
     "soup-vs-salad.md",

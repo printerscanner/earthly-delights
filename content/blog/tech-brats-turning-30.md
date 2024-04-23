@@ -89,7 +89,7 @@ If you don't know, Peter Thiel is the most important person in Silicon Valley. T
 
   
 
-On campus, he gained some notoriety when he founded a conservative and libertarian newspaper called _The Stanford Review_ as a reaction to changes to the first-year curriculum that recentered The Western Canon. This extended into some interesting theories about multiculturalism he crafted into a book called _The Diversity Myth_. 
+On campus, Thiel gained some notoriety when he founded a conservative and libertarian newspaper called _The Stanford Review_ as a reaction to changes to the first-year curriculum that recentered The Western Canon. This extended into some interesting theories about multiculturalism he crafted into a book called _The Diversity Myth_. 
 
   
 
@@ -105,7 +105,7 @@ After all of this success, Thiel begins to look around the world, and he remembe
 
   
 
-This is when Thiel began a decades-long crusade to reform the education system through the media. I have no evidence to back this up, but it seems plausible that for a multi-year stretch, Joe Rogan was on Thiel's payroll, either implicitly or explicitly. Jordan Peterson's "postmodern neo-Marxism" has an uncanny resemblance to Thiel's multiculturalism argument from _The Diversity Myth._ Peterson, of course, was the victim of wokeism run amok in the University system. He made his first appearances on Rogan just like Weinstein and his brother, Bret, who got a lot of attention after being embroiled in a woke frenzy at the famously conservative university Evergreen College. 
+This is when Thiel began a decade-long crusade to reform the education system through the media. I have no evidence to back this up, but it seems plausible that for a multi-year stretch, Joe Rogan was on Thiel's payroll, either implicitly or explicitly. Jordan Peterson's "postmodern neo-Marxism" has an uncanny resemblance to Thiel's multiculturalism argument from _The Diversity Myth._ Peterson, of course, was the victim of wokeism run amok in the University system. He made his first appearances on Rogan just like Weinstein and his brother, Bret, who got a lot of attention after being embroiled in a woke frenzy at the famously conservative university Evergreen College. 
 
   
 
