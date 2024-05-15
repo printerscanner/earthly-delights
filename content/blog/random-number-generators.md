@@ -1,5 +1,5 @@
 ---
-title: Is Math.random() actually random?
+title: On Random Numbers
 description: 
 date: 2024-01-01
 tags:

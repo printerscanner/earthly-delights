@@ -16,7 +16,7 @@ layout: layouts/base.njk
 		{%- endfor %}
 	</ul>
 
-	{{ content | safe }}
+{{ content | safe | replace('![[', '<img src="/img/') | replace(']]', '">') }}
 
 	{%- if collections.posts %}
 	{%- set previousPost = collections.posts | getPreviousCollectionItem %}
