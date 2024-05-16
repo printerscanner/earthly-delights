@@ -1,5 +1,5 @@
 ---
-title: The Sustainable Web
+title: "The Sustainable Web: BS?"
 description: 
 date: 2024-01-20
 tags:
