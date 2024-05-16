@@ -39,7 +39,8 @@ a:hover {
 }
 
 header h1,
-header a {
+header a,
+footer a {
 	font-family: "PicNic", sans-serif;
 	text-decoration: none;
 	font-size: 30px;
@@ -110,6 +111,35 @@ img {
 
 .post-metadata {
 	padding: 0;
+}
+
+.email {
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #cd5c5c;
+  color: white;
+  width: 90%;
+  filter: invert();
+	outline: 0;
+}
+
+.submit-button {
+	background: transparent;
+  border: none;
+  color: white;
+	transition: .2s all;
+	font-size: 22px;
+	vertical-align: middle;
+}
+
+.submit-button:hover {
+  color: greenyellow;
+}
+
+.form {
+	max-width: 350px;
+	margin-top: 20px;
 }
 
 @media only screen and (max-width: 1000px) {
