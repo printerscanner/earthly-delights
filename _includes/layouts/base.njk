@@ -83,24 +83,6 @@
 			<br></br>
 		</footer>
 		<!-- Current page: {{ page.url | htmlBaseUrl }} -->
-		    <script>
-        document.querySelector('form').addEventListener('submit', function(event) {
-            event.preventDefault();
-            const form = event.target;
 
-            fetch('/', {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-                body: new URLSearchParams(new FormData(form)).toString()
-            })
-            .then(() => {
-                alert('Form successfully submitted');
-                form.reset(); // Reset form after submission
-            })
-            .catch((error) => alert('There was an error submitting the form'));
-
-            return false;
-        });
-    </script>
 	</body>
 </html>
