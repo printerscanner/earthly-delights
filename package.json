@@ -34,7 +34,5 @@
 		"luxon": "^3.3.0",
 		"markdown-it-anchor": "^8.6.7"
 	},
-	"dependencies": {
-		"@netlify/plugin-lighthouse": "^6.0.0"
-	}
+	"dependencies": {}
 }
