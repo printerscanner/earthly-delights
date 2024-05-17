@@ -92,9 +92,12 @@
 
         try {
             const response = await fetch('/', {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-                body: new URLSearchParams(formData).toString(),
+							method: 'POST',
+							headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+							body: new URLSearchParams({
+								'form-name': 'contact',
+								email: e.target.email.value,
+							}).toString(),
             });
 						console.log(response);
             if (response.ok) {
