@@ -156,6 +156,18 @@ img {
 	margin-top: 20px;
 }
 
+.thanks-bubble {
+	position: fixed;
+	top: 25px;
+	right: 25px;
+	background-color: rgba(0, 0, 0, .9);
+	color: white;
+	padding: 10px 20px;
+	z-index: 1000000;
+	border-radius: 20px;
+	animation: fadeOut 3s forwards;
+  }
+
 @media only screen and (max-width: 1000px) {
 	body {
 		padding: 5px;
