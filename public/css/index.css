@@ -22,6 +22,13 @@ body {
 	color: #ACEF95;
 	background-color: #19472F;
 	padding: 10px 50px;
+	display: flex;
+	flex-direction: column;
+}
+
+
+section {
+	flex: 1; /* This makes the content take up the available space */
 }
 
 p {
@@ -47,6 +54,13 @@ footer a {
 	width: 250px;
 }
 
+footer {
+	bottom: 0;
+	display: flex;
+	width: 100%;
+	align-items: flex-end;
+	padding-bottom: 30px;
+}
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
 .visually-hidden {
@@ -145,5 +159,8 @@ img {
 @media only screen and (max-width: 1000px) {
 	body {
 		padding: 5px;
+	}
+	footer {
+		display: initial;
 	}
 }

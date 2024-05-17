@@ -55,32 +55,52 @@
 		<main id="skip">
 			{{ content | safe }}
 		</main>
-		{# <div class="blog-container">
-					<p style="margin:0">Like the blog? Get the newsletter for updates.</p>
-			  <form
-            name="contact"
-            method="POST"
-            data-netlify="true"
-            class="form"
-        >
-            <input type="hidden" name="form-name" value="contact" />
-            <input
-                id="standard-basic"
-                label="email"
-                name="email"
-                class="email"
-                placeholder="lizzie@theranos.com"
-            />
-            <button type="submit" class="submit-button">→</button>
-        </form>
-				</div> #}
+</section>
 
 		<footer>
-			<a href="https://earthlydelights.net">The Garden of Earthly Delights</a></span>
-			<a style="float:right" href="https://printerscanner.net">printer_scanner</a></span>
+			<div style="flex-grow:1">
+					<p style="margin:0">Like the blog? Get the newsletter for updates.</p>
+					<form
+						name="earthly-delights-contact"
+						method="POST"
+						data-netlify="true"
+						class="form"
+					>
+						<input type="hidden" name="form-name" value="contact" />
+						<input
+							id="standard-basic"
+							label="email"
+							name="email"
+							class="email"
+							placeholder="lizzie@theranos.com"
+						/>
+						<button type="submit" class="submit-button">→</button>
+					</form>
+				<br>
+				<a href="https://earthlydelights.net">The Garden of Earthly Delights</a></span>
+			</div>
+			<a href="https://printerscanner.net">printer_scanner</a></span>
 			<br></br>
 		</footer>
-</section>
 		<!-- Current page: {{ page.url | htmlBaseUrl }} -->
+		    <script>
+        document.querySelector('form').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const form = event.target;
+
+            fetch('/', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                body: new URLSearchParams(new FormData(form)).toString()
+            })
+            .then(() => {
+                alert('Form successfully submitted');
+                form.reset(); // Reset form after submission
+            })
+            .catch((error) => alert('There was an error submitting the form'));
+
+            return false;
+        });
+    </script>
 	</body>
 </html>
