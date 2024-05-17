@@ -57,32 +57,78 @@
 		</main>
 </section>
 
-		<footer>
-			<div style="flex-grow:1">
-					<p style="margin:0">Like the blog? Get the newsletter for updates.</p>
-					<form
-						name="earthly-delights-contact"
-						method="POST"
-						data-netlify="true"
-						class="form"
-					>
-						<input type="hidden" name="form-name" value="contact" />
-						<input
-							id="standard-basic"
-							label="email"
-							name="email"
-							class="email"
-							placeholder="lizzie@theranos.com"
-						/>
-						<button type="submit" class="submit-button">→</button>
-					</form>
-				<br>
-				<a href="https://earthlydelights.net">The Garden of Earthly Delights</a></span>
-			</div>
-			<a href="https://printerscanner.net">printer_scanner</a></span>
-			<br></br>
-		</footer>
-		<!-- Current page: {{ page.url | htmlBaseUrl }} -->
+<footer>
+    <div style="flex-grow:1">
+        <p style="margin:0">Like the blog? Get the newsletter for updates.</p>
+        <form
+            id="earthly-delights-contact"
+            method="POST"
+            data-netlify="true"
+            class="form"
+        >
+            <input type="hidden" name="form-name" value="contact" />
+            <input
+                id="standard-basic"
+                label="email"
+                name="email"
+                class="email"
+                placeholder="lizzie@theranos.com"
+            />
+            <button type="submit" class="submit-button">→</button>
+        </form>
+        <br>
+        <a href="https://earthlydelights.net">The Garden of Earthly Delights</a>
+    </div>
+    <a href="https://printerscanner.net">printer_scanner</a>
+    <br></br>
+</footer>
 
-	</body>
+<script>
+    // Function to handle form submission
+    const handleSubmit = async (e) => {
+        e.preventDefault();
+        const form = e.target;
+        const formData = new FormData(form);
+
+        try {
+            const response = await fetch('/', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                body: new URLSearchParams(formData).toString(),
+            });
+
+            if (response.ok) {
+                displayThanksMessage("You're a little freak 😉, thanks for joining.");
+                form.reset(); // Reset form fields if needed
+            } else {
+                displayThanksMessage("Oops! Something went wrong. Please try again later.");
+            }
+        } catch (error) {
+            console.error('Form submission failed:', error);
+            displayThanksMessage("Oops! Something went wrong. Please try again later.");
+        }
+    };
+
+    // Function to display thanks message
+    const displayThanksMessage = (message) => {
+        // Creating a div element to hold the message
+        const bubble = document.createElement('div');
+        bubble.className = 'thanks-bubble';
+        bubble.innerHTML = `<p>${message}</p>`;
+
+        // Appending the bubble to the form
+        const form = document.getElementById('earthly-delights-contact');
+        form.appendChild(bubble);
+
+        // Hiding the bubble after 3 seconds
+        setTimeout(() => {
+            bubble.remove();
+        }, 3000);
+    };
+
+    // Attach form submission event listener
+    const form = document.getElementById('earthly-delights-contact');
+    form.addEventListener('submit', handleSubmit);
+</script>
+
 </html>
