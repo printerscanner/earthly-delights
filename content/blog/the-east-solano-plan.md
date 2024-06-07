@@ -35,7 +35,7 @@ Zuegel writes, "This might sound like hyperbole, but if voters approve the plan 
   
 
   ![](https://downloads.ctfassets.net/ivxuf0dn6dhw/6AVubsDdrydKpWgYoXK6jg/1f64bf621fbc2d64723bb269415241aa/DD_Sitelab_CaliForever_View08_Night_2024_03_13_Final.jpg?w=1000)
-*Renderings of the new city*
+*Renderings of the new city.*
   
 
 Last month, Zuegel and Sramek appeared together to campaign for the new city on the podcast _Pirate Wires,_ hosted by Michael Solana, CMO of a venture capital fund owned by Peter Thiel. Of the new town, Solana says, "2020 happened. I was living in San Francisco when I conceived of _Pirate Wires_, and a big motivation was processing what I saw out my window. Suddenly, building a new city took on a different kind of life. It was a much more complicated question of exit versus voice."  Exit versus voice is a dilemma popularized by Albert Hirschman. He says that individuals have two options when faced with a decreased quality in an organization: they can voice their opinions or leave.
