@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech-brats-join-the-colony.md",
+                "file": "the-east-solano-plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sustainable-websites.md",
+                "file": "the-east-solano-plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sustainable-websites.md",
+                "file": "the-east-solano-plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sustainable-websites.md",
+                "file": "the-east-solano-plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sustainable-websites.md"
+                "file": "the-east-solano-plan.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sustainable-websites.md"
+                "file": "the-east-solano-plan.md"
               }
             }
           }
@@ -184,11 +184,11 @@
   },
   "active": "1353c758fbde455b",
   "lastOpenFiles": [
-    "garden-of-delights.md",
     "the-absurdity-of-tim-ferriss.md",
-    "tech-brats-join-the-colony.md",
-    "sustainable-websites.md",
     "tech-brats-turning-30.md",
+    "sustainable-websites.md",
+    "the-east-solano-plan.md",
+    "garden-of-delights.md",
     "random-number-generators.md",
     "rating-every-business-leith-walk.md",
     "every-thing-ate.md",

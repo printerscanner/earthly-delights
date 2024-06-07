@@ -1,5 +1,5 @@
 ---
-title: "The Sustainable Web: BS?"
+title: Is a Sustainable Web worth talking about?
 description: 
 date: 2024-01-20
 tags:
