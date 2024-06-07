@@ -18,7 +18,7 @@ If you have read other posts on my blog, you will know I am turning 30, which al
   
 
 ![Winchester](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Winchester_Mystery_House_hallway_staircase.jpg/800px-Winchester_Mystery_House_hallway_staircase.jpg)
-*Winchester constructed staircases to nowhere, an apt metaphor for everything else.*
+*Fig 1: Winchester constructed staircases to nowhere, an apt metaphor for everything else.*
 
   
 
@@ -35,8 +35,9 @@ Zuegel writes, "This might sound like hyperbole, but if voters approve the plan 
   
 
   ![](https://downloads.ctfassets.net/ivxuf0dn6dhw/6AVubsDdrydKpWgYoXK6jg/1f64bf621fbc2d64723bb269415241aa/DD_Sitelab_CaliForever_View08_Night_2024_03_13_Final.jpg?w=1000)
-*Renderings of the new city.*
-  
+*Fig 2. Renderings of the new city.*
+
+
 
 Last month, Zuegel and Sramek appeared together to campaign for the new city on the podcast _Pirate Wires,_ hosted by Michael Solana, CMO of a venture capital fund owned by Peter Thiel. Of the new town, Solana says, "2020 happened. I was living in San Francisco when I conceived of _Pirate Wires_, and a big motivation was processing what I saw out my window. Suddenly, building a new city took on a different kind of life. It was a much more complicated question of exit versus voice."  Exit versus voice is a dilemma popularized by Albert Hirschman. He says that individuals have two options when faced with a decreased quality in an organization: they can voice their opinions or leave.
 
@@ -79,10 +80,7 @@ Zuegel calls The East Solano Plan a utopia. I, myself, could not have chosen a b
   
 
 ![Howard's diagram illustrating the Garden City concept](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Garden_City_Concept_by_Howard.jpg/800px-Garden_City_Concept_by_Howard.jpg)
-
-  
-
-*Howard's diagram illustrating the garden city concept is referenced as an essential inspiration for The East Solano Plan. The key feature connecting these cluster cities is a series of railway lines between them.*
+*Fig 3: Howard's diagram illustrating the garden city concept is referenced as an essential inspiration for The East Solano Plan. The key feature connecting these cluster cities is a series of railway lines between them.*
 
   
 
@@ -165,8 +163,7 @@ Libertarianism flourished in California, a place rotten with capital, where Mani
 “We didn’t know what the government did. The whole government apparatus is quite wonderful and quite crucial. [It] makes me frantic that it’s being taken away.” [...] Brand spoke at a Prague conference hosted by the Ethereum Foundation, which supports an eponymous, open-source, blockchain-based computing platform and cryptocurrency. In his address, he apologized for over-valorizing hackers. “Frankly,” he said, “most of the real engineering was done by people with narrow ties who worked nine to five, often with federal money.”
 
 ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/WEC-69F-C.jpg/800px-WEC-69F-C.jpg)
-
-*The Whole Earth Catalog, a plague among us.*
+*Fig 5: The Whole Earth Catalog, a plague among us.*
 
   
 
