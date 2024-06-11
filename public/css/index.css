@@ -168,6 +168,26 @@ img {
 	animation: fadeOut 3s forwards;
   }
 
+	/* This will ensure that the code within <pre> tags wraps and doesn't overflow */
+pre[class*="language-"] {
+	font-size: 12px !important;
+	white-space: pre-wrap !important;        /* CSS3 */
+	white-space: -moz-pre-wrap !important;  /* Firefox */
+	white-space: -pre-wrap !important;      /* Opera <7 */
+	white-space: -o-pre-wrap !important;    /* Opera 7 */
+	word-wrap: break-word !important;       /* IE */
+}
+
+/* Additional style for better aesthetics */
+code[class*="language-"] {
+	white-space: pre-wrap !important;       /* CSS3 */
+	white-space: -moz-pre-wrap !important;  /* Firefox */
+	white-space: -pre-wrap !important;      /* Opera <7 */
+	white-space: -o-pre-wrap !important;    /* Opera 7 */
+	word-wrap: break-word !important;       /* IE */
+}
+
+
 @media only screen and (max-width: 1000px) {
 	body {
 		padding: 5px;

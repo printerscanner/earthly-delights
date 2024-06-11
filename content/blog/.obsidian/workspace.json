@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aa995f1a5d78d82c",
+        "id": "c815002c7a706fb5",
         "type": "tabs",
         "children": [
           {
-            "id": "b9f5515ae236a0d0",
+            "id": "3270410de74be0f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the-east-solano-plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1353c758fbde455b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the-east-solano-plan.md",
+                "file": "sustainable-websites.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the-east-solano-plan.md",
+                "file": "sustainable-websites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the-east-solano-plan.md",
+                "file": "sustainable-websites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the-east-solano-plan.md"
+                "file": "sustainable-websites.md"
               }
             }
           },
@@ -160,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "the-east-solano-plan.md"
+                "file": "sustainable-websites.md"
               }
             }
           }
@@ -182,14 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1353c758fbde455b",
+  "active": "3270410de74be0f7",
   "lastOpenFiles": [
-    "the-absurdity-of-tim-ferriss.md",
-    "tech-brats-turning-30.md",
+    "random-number-generators.md",
     "sustainable-websites.md",
     "the-east-solano-plan.md",
+    "the-absurdity-of-tim-ferriss.md",
+    "tech-brats-turning-30.md",
     "garden-of-delights.md",
-    "random-number-generators.md",
     "rating-every-business-leith-walk.md",
     "every-thing-ate.md",
     "image.png",
