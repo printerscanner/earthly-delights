@@ -26,6 +26,11 @@ body {
 	flex-direction: column;
 }
 
+code {
+	background: #19472f;
+  padding: .1rem .2rem;
+  border-radius: 4px;
+}
 
 section {
 	flex: 1; /* This makes the content take up the available space */
