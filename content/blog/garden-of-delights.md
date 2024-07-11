@@ -3,6 +3,7 @@ title: What is the Garden of Earthly Delights?
 description: 
 date: 2023-12-31
 tags:
+  - Sticky
 ---
 ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Garden_of_earthly_delights.jpg/1920px-The_Garden_of_earthly_delights.jpg)
 
