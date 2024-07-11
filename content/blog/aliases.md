@@ -38,7 +38,7 @@ The marker of a good alias is that it is frequently used and well tended to. Ove
    ```sh
    alias serve="python3 -m http.server"
    ```
-Python changed its start server syntax several years ago, and my brain wasn't able to catch up. I set this a few years back and live in bliss that I don't have to search for the command every few weeks. This is my most used alias anytime I need to spin up a simple server. This python server is in my opinion, the simplest way to start a local server.
+Python changed its start server syntax several years ago, and my brain wasn't able to catch up. I set this a few years back and live in bliss that I don't have to search for the command every few weeks. This is my most used alias anytime I need to spin up a simple server. This python server is in my opinion, the easiest way to start a local server.
 
 
 
@@ -72,4 +72,4 @@ I frequently need to resize images, and this function is ultra fast and allows m
 
 ### Conclusion
 
-A great alias saves time. Refrain from trying to reduce keystrokes; you'll never remember your abbreviations. 
+A great alias saves time. Refrain from trying to reduce keystrokes; you'll never remember your abbreviations. Here is a link to my [Github repository](https://github.com/printerscanner/dotfiles/blob/main/sh/aliases.sh) if you'd like to grab these. 
