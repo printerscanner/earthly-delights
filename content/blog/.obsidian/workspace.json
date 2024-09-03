@@ -11,12 +11,8 @@
             "id": "3270410de74be0f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "aliases.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aliases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aliases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "aliases.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "aliases.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -171,16 +161,19 @@
   },
   "active": "3270410de74be0f7",
   "lastOpenFiles": [
+    "scv.md",
+    "241951_10151087543080336_1990179238_o.jpg",
+    "198354_10151053923120336_237987834_n.jpg",
+    "_template/_post_template.md",
+    "aliases.md",
     "every-thing-ate.md",
     "rating-every-business-leith-walk.md",
     "sustainable-websites.md",
     "tech-brats-turning-30.md",
     "the-east-solano-plan.md",
     "the-absurdity-of-tim-ferriss.md",
-    "_template/_post_template.md",
     "Reading TAOCP.md",
     "garden-of-delights.md",
-    "aliases.md",
     "open?vault=Earthly Delights&file=Backburner:.inetloc",
     "random-number-generators.md",
     "image.png",
@@ -204,7 +197,6 @@
     "web-dev-trends.md",
     "Green Websites.md",
     "Untitled",
-    "Garden.md",
     "_template",
     "template",
     "Neuer Ordner",
