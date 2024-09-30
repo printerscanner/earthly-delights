@@ -15,12 +15,6 @@ I started vaguely following Zuegel a few years back when she first became intere
 
 If you have read other posts on my blog, you will know I am turning 30, which allowed me to reflect on the last ten years and our progress together in Silicon Valley. I grew up there. The town I am from was less than fifty years old when I was born. Before it was a town, it was farmland owned by Sarah Winchester. Superstitious and driven mad by her inheritance of the infamous rifle fortune, she spent her waning years building a labyrinth house in San Jose to ward off evil. 
 
-  
-
-![Winchester](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Winchester_Mystery_House_hallway_staircase.jpg/800px-Winchester_Mystery_House_hallway_staircase.jpg)
-*Fig 1: Winchester constructed staircases to nowhere, an apt metaphor for everything else.*
-
-  
 
 Like Winchester, I am also part of a second generation in the valley. Many of my parent's generation were electrical engineers back when it was still government work. The work is slightly different now, but what I would like to think hasn't changed is a motivation not to shy away from hard problems. What has changed with us second-generationers is an impulse towards idealism that runs deep in second generations but is also unique to the area. James Clark, founder of Netscape, said in _The New New Thing_ that in Silicon Valley, we construct buildings meant to be demolished and rebuilt as something better – our past is irrelevant to a future always arriving. We all know the private internet was the great equalizer. For Clark's co-founder, Marc Andreessen, it has been a true utopia. Andreessen asks us to take what our parent's generation learned from engineering the internet and look to the boundless complexities of real life to see what else we can solve, a task Zuegel takes on in stride. 
 
