@@ -1,5 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Things",
-  "baseFontSize": 21
+  "cssTheme": "Typewriter",
+  "baseFontSize": 16,
+  "theme": "obsidian"
 }
