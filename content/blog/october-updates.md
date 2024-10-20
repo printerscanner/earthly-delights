@@ -1,5 +1,5 @@
 ---
-title: "October Roundup: I cured my foot fungus!"
+title: "October Updates: I cured my foot fungus!"
 description: 
 date: 2024-10-20
 tags:
