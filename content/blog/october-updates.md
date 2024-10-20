@@ -38,5 +38,6 @@ I've been working on a dizzying number of new projects this fall, including [pru
 
 [Site Inspire](https://www.siteinspire.com/websites/12668-printer-scanner-studio) and [Site of Sites](https://www.siteofsites.co/websites/printer-scanner-studio) posted about printer_scanner, which officially means I'm a celebrity. If you found me through Site Inspire, feel free to say hi! 
 
-Most excitingly, the incredible type foundry Velvetyne added [Mother Type](https://mother-type.de) to their [friends of Velvetyne](https://velvetyne.fr/velvetyne-libre-friends/) list. I've been a massive fan of Velvetyne for years, and it was fantastic to get a chance to chat with them. At Mother, we're working on riffing off of some of Velvetyne's open-source aspirations. There will be a blog post about that coming up (thrilling).
+Most excitingly, the incredible type foundry Velvetyne added [Mother Type](https://mother-type.de) to their [friends of Velvetyne](https://velvetyne.fr/velvetyne-libre-friends/) list. I've been a massive fan of Velvetyne for years, and it was fantastic to get a chance to chat with them. At Mother, we're riffing some of Velvetyne's open-source tools. There will be a blog post about that coming up (thrilling).
 
+Thanks for reading! 
