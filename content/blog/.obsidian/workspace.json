@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c815002c7a706fb5",
+        "id": "28b5cebd8204ef64",
         "type": "tabs",
         "children": [
           {
-            "id": "3270410de74be0f7",
+            "id": "01246430e1e98350",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the-east-solano-plan.md",
+                "file": "october-updates.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "october-updates"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the-east-solano-plan.md",
+                "file": "the-saint-meghan-markle-subreddit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for the-saint-meghan-markle-subreddit"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the-east-solano-plan.md",
+                "file": "the-saint-meghan-markle-subreddit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from the-saint-meghan-markle-subreddit"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the-east-solano-plan.md"
-              }
+                "file": "the-saint-meghan-markle-subreddit.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of the-saint-meghan-markle-subreddit"
             }
           },
           {
@@ -138,7 +154,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -147,8 +165,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "the-east-solano-plan.md"
-              }
+                "file": "the-saint-meghan-markle-subreddit.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for the-saint-meghan-markle-subreddit"
             }
           }
         ],
@@ -169,24 +189,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3270410de74be0f7",
+  "active": "01246430e1e98350",
   "lastOpenFiles": [
-    "Bildschirmfoto 2024-05-07 um 12.19.10.png",
+    "images/arch_linux.jpg",
+    "arch_linux.jpg",
     "the-east-solano-plan.md",
+    "images/east-solano-plan.png",
+    "garden-of-delights.md",
+    "october-updates.md",
+    "images",
+    "the-saint-meghan-markle-subreddit.md",
+    "the-absurdity-of-tim-ferriss.md",
+    "tech-brats-turning-30.md",
+    "sustainable-websites.md",
+    "aliases.md",
+    "random-number-generators.md",
+    "2023-12-31.md",
     "scv.md",
     "241951_10151087543080336_1990179238_o.jpg",
     "198354_10151053923120336_237987834_n.jpg",
     "_template/_post_template.md",
-    "aliases.md",
     "every-thing-ate.md",
     "rating-every-business-leith-walk.md",
-    "sustainable-websites.md",
-    "tech-brats-turning-30.md",
-    "the-absurdity-of-tim-ferriss.md",
     "Reading TAOCP.md",
-    "garden-of-delights.md",
     "open?vault=Earthly Delights&file=Backburner:.inetloc",
-    "random-number-generators.md",
     "image.png",
     "taocp.md",
     "reading-the-classics.md",
@@ -203,10 +229,6 @@
     "Soup vs. Salad.md",
     "porcelain.md",
     "modernity.md",
-    "ux-evils.md",
-    "web-dev-trends.md",
-    "Green Websites.md",
-    "Untitled",
     "_template",
     "template",
     "Neuer Ordner",
