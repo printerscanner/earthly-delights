@@ -15,7 +15,7 @@ I am really excited about a few longer blog posts in the works (including one ab
 
 I need to speak about this because many people, including those closest to me, doubted I could do it. On web forums, they say the cure is impossible. But if any of you are suffering from toenail fungus, don't give in to nihilism. It is possible. 
 
-My method: Twice a day, I applied Tolnaftate, an over-the-counter toenail fungus medicine. I picked up two bottles for around $14 when I was visiting home in America last year. I had heard that it would take around two years for the fungus to completely disappear, but it only took me around six months of diligent application. 
+My method: Twice a day, I applied *Tolnaftate*, an over-the-counter toenail fungus medicine. I picked up two bottles for around $14 when I was visiting home in America last year. I had heard that it would take around two years for the fungus to completely disappear, but it only took me around six months of diligent application. 
 
 This has been one of the larger projects I have undertaken this year. I feel proud to have completed it and to have proved the haters wrong at every turn. If I know you IRL and you would like to see before-and-after photos, feel free to send me a message. Also, I advise using extreme caution when using the damp sauna at the Leith Victoria Edinburgh Leisure Center.
 
